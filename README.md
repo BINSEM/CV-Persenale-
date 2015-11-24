@@ -1,13 +1,12 @@
 # CV-Persenale-
 Cv
-Prénom NOM
+Semi BINI
 
 Votre adresse complète
 Tél : 06.00.00.00.00 –Gsm : 06 00 00 00 71 - Email : adresse@email.zz
-Age, marié
+Age,25  celib
 
 TITRE DE VOTRE CV - POSTE SOUHAITE
-
 
 EXPERIENCE PROFESSIONNELLE
 
